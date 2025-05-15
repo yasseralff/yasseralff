@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋, Yasser here!</h1>
-<h3 align="left">A junior developer passionate about Software Development, Machine Learning, and AI.</h3>
+<h3 align="left">An aspiring developer passionate about Software Development, Machine Learning, and AI.</h3>
 
 ---
 
