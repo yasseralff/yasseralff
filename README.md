@@ -46,7 +46,7 @@
 <h3 align="left">🏆 Other Stats</h3>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yasseralff&theme=dracula" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=yasseralff&theme=dracula&title=-Issues,-Reviews&row=2&column=3" alt="Trophies" />
   </a>
 </p>
 
