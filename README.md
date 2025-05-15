@@ -4,7 +4,7 @@
 ---
 
 - 🌱 I’m currently diving deep into **React.js, Django, and AI-related technologies**  
-- 🤖 I enjoy building useful tools, automation systems, and exploring new programming languages  
+- 🤖 I enjoy building useful tools, software dev, automation, and exploring new programming languages  
 - 🚀 Always open to exciting ideas and collaborations!
 
 ---
